@@ -40,6 +40,7 @@ Welcome to the NestJS Starter Kit 🚀 This starter is opensource and provides a
 - [Contributing](#contributing)
 - [Sponsorship](#sponsorship) 🤍
 - [Current ERD](#current-erd)
+- [Star History](#star-history)
 - [License](#license)
 
 ---
@@ -194,6 +195,12 @@ Your contributions will help ensure the continued development and maintenance of
 <div align="center">
   <img src="https://github.com/mr-meselmani/nestjs-starter-kit/blob/master/public/current-erd.png?raw=true" alt="Project Banner" style="width:100%;"/>
 </div>
+
+---
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ahmadmeselmani/nestjs-starter-kit&type=Date)](https://star-history.com/#ahmadmeselmani/nestjs-starter-kit&Date)
 
 ---
 
